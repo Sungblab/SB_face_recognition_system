@@ -36,7 +36,8 @@
 1. 저장소 클론
 
 ```bash
-git clone [repository_url]
+git clone https://github.com/Sungblab/SB_face_recognition_system.git
+cd SB_face_recognition_system
 ```
 
 2. 필요한 패키지 설치
@@ -83,7 +84,7 @@ face_attendance/
 
 ## 라이선스
 
-이 프로젝트는 MIT 라이선스 하에 배포됩니다.
+이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](./LICENSE)를 참고하세요.
 
 ## 기여
 
